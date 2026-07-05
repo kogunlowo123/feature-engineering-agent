@@ -48,6 +48,11 @@ ML feature engineering agent that designs, computes, and serves features for mac
 
 ## Architecture
 
+![7-Layer Architecture](docs/diagrams/architecture-7-layer.png)
+
+*Where RAG sits in the stack — the 7-layer enterprise AI agent architecture.*
+
+
 ```
 feature-engineering-agent/
 │
